@@ -99,7 +99,21 @@ input{
     font-size:15px;
 }
 
-#select{
+.select{
+    width:230px;
     display:flex;
     justify-content: space-around;
+    align-items:center;
+    /* border:2px solid black; */
 }
+
+#hero{
+    height:700px;
+    /* border:2px solid black; */
+    margin:40px 60px 0px 60px;
+}
+
+#title{
+    font-size:12px;
+}
+
